@@ -1,3 +1,3 @@
-# Form Submission & Validation
+# Form Submission with Netlify
 
-**Form Submission with Basic Validation Integrated and Deployed on Netlify.**
+Simple Form Submission with Basic Validation Integrated and Deployed on Netlify.
